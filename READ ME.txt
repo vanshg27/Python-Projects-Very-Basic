@@ -1,0 +1,43 @@
+Hangman Game with MySQL Backend 🎮🐍
+A fun and interactive Hangman game built with Python and powered by a MySQL backend! This project features dynamic word generation based on various topics like movies, science, and more.
+
+Features ✨
+🔠 Dynamic word selection: Words are fetched from a MySQL database categorized by topics.
+🖼️ Visual gameplay: Classic ASCII art representation of the Hangman.
+📂 Backend integration: Easily scalable with MySQL to add more words or categories.
+🛠️ Error handling: Tracks mistakes and limits the number of wrong guesses.
+🎯 Custom topics: Play with word categories such as:
+🎥 Movies
+🌌 Science
+🎶 Songs
+🧠 General Knowledge
+Technologies Used 💻
+Python: Core game logic, user interaction, and database querying.
+MySQL: Backend to store and manage words across different topics.
+ASCII Art: Visual representation of the Hangman.
+Hangman Game with MySQL Backend 🎮🐍
+A fun and interactive Hangman game built with Python and powered by a MySQL backend! This project features dynamic word generation based on various topics like movies, science, and more.
+
+Features ✨
+🔠 Dynamic word selection: Words are fetched from a MySQL database categorized by topics.
+🖼️ Visual gameplay: Classic ASCII art representation of the Hangman.
+📂 Backend integration: Easily scalable with MySQL to add more words or categories.
+🛠️ Error handling: Tracks mistakes and limits the number of wrong guesses.
+🎯 Custom topics: Play with word categories such as:
+🎥 Movies
+🌌 Science
+🎶 Songs
+🧠 General Knowledge
+Technologies Used 💻
+Python: Core game logic, user interaction, and database querying.
+MySQL: Backend to store and manage words across different topics.
+ASCII Art: Visual representation of the Hangman.
+Contributions 🤝
+Contributions are welcome! If you'd like to improve this project, feel free to submit a pull request or open an issue.
+
+License 📜
+This project is licensed under the MIT License.
+
+Connect with Me 🌐
+Twitter: @vansc_h
+LinkedIn: Vansh Gagwani
